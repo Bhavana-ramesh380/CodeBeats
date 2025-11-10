@@ -1,4 +1,4 @@
-# Code Wishes — Lyrics Typewriter Player
+# CodeBeats — Lyrics Typewriter Player
 
 A small Python script that downloads a YouTube track locally (audio only), starts playback at a chosen offset, and displays synced lyrics with a typewriter effect. Playback and lyrics stay in sync even when you pause/resume, and you can nudge lyric timing live.
 
